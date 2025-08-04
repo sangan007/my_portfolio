@@ -79501,7 +79501,7 @@ r=c?o.O(0.7):p.O(0.7)
 o=c?o.O(0.2):p.O(0.2)
 return A.id(A.bw(A.bs(A.c3(A.b([new A.LP(b,s,r,o,q),B.bG,A.iG(q,q,B.S,new A.bd(p,q,q,A.bN(2),q,q,B.C),B.ax,4,q,q,60)],t.p),B.J,B.y,B.z),q),q,A.a5(8e5,0,0)),-0.1,q,q,0)},
 Jn(a,b){var s,r=null,q=A.E(a).dx,p=A.E(a).fx,o=A.b([q,q.O(0.5)],t.t_),n=A.b([new A.co(5,B.b_,q.O(0.3),B.e,20)],t.E),m=b?A.E(a).at:p
-o=A.apF(A.bw(A.bs(A.bX(r,A.bX(r,A.aoy(A.bN(140),A.at1("sangan.jpg",new A.VZ(q),B.lH)),B.q,r,r,new A.bd(m,r,r,r,r,r,B.bM),r,r,r,B.mK,r,r,r),B.q,r,r,new A.bd(r,r,r,r,n,new A.hW(B.ce,B.ly,B.bm,o,r,r),B.bM),r,280,r,B.mK,r,r,280),r),r,A.a5(8e5,0,0)),B.M4,r,r,r)
+o=A.apF(A.bw(A.bs(A.bX(r,A.bX(r,A.aoy(A.bN(140),A.at1("assets/sangan.jpg",new A.VZ(q),B.lH)),B.q,r,r,new A.bd(m,r,r,r,r,r,B.bM),r,r,r,B.mK,r,r,r),B.q,r,r,new A.bd(r,r,r,r,n,new A.hW(B.ce,B.ly,B.bm,o,r,r),B.bM),r,280,r,B.mK,r,r,280),r),r,A.a5(8e5,0,0)),B.M4,r,r,r)
 n=t.p
 m=A.bs(A.N6(B.zO,A.b([this.Av(B.fL,"GitHub","https://github.com/sangan007",a),this.Av(B.jy,"LinkedIn","https://linkedin.com",a),this.Av(B.nf,"Email","mailto:sangeerth.b@outlook.com",a)],n),16,16),r)
 s=A.a5(8e5,0,0)
@@ -79538,7 +79538,7 @@ A.E(a)
 s=A.E(a).ok.y.b
 s.toString
 A.ee(a,!0,t.B).toString
-r=A.b(["IMG-20250804-WA0009.jpg","IMG-20250804-WA0010.jpg","IMG-20250804-WA0011.jpg","IMG-20250804-WA0012.jpg","IMG-20250804-WA0013.jpg","IMG-20250804-WA0014.jpg","IMG-20250804-WA0015.jpg","IMG-20250804-WA0016.jpg","IMG-20250804-WA0017.jpg","IMG-20250804-WA0018.jpg","IMG-20250804-WA0019.jpg"],t.s)
+r=A.b(["assets/IMG-20250804-WA0009.jpg","assets/IMG-20250804-WA0010.jpg","assets/IMG-20250804-WA0011.jpg","assets/IMG-20250804-WA0012.jpg","assets/IMG-20250804-WA0013.jpg","assets/IMG-20250804-WA0014.jpg","assets/IMG-20250804-WA0015.jpg","assets/IMG-20250804-WA0016.jpg","assets/IMG-20250804-WA0017.jpg","assets/IMG-20250804-WA0018.jpg","assets/IMG-20250804-WA0019.jpg"],t.s)
 q=n?16:18
 q=A.bf("Moments of joy and candid expressions.",p,p,p,A.bc().$2$color$fontSize(s.O(0.8),q),p,p)
 if(n)o=2
@@ -79631,7 +79631,7 @@ A.a2j.prototype={
 $1(a){return a.Gu(B.ft)},
 $S:103}
 A.z3.prototype={
-aq(){return new A.Dh(A.b(["IMG-20250804-WA0001.jpg","IMG-20250804-WA0002.jpg","IMG-20250804-WA0003.jpg","IMG-20250804-WA0004.jpg","IMG-20250804-WA0005.jpg","IMG-20250804-WA0006.jpg","IMG-2345890.jpg","IMG-3456789.jpg"],t.s))}}
+aq(){return new A.Dh(A.b(["assets/IMG-20250804-WA0001.jpg","assets/IMG-20250804-WA0002.jpg","assets/IMG-20250804-WA0003.jpg","assets/IMG-20250804-WA0004.jpg","assets/IMG-20250804-WA0005.jpg","assets/IMG-20250804-WA0006.jpg","assets/IMG-2345890.jpg","assets/IMG-3456789.jpg"],t.s))}}
 A.Dh.prototype={
 abA(){this.ak(new A.aiZ(this))},
 K(a){var s,r,q=null,p=A.b8(a,q,t.w).w.a.a,o=p<768,n=A.E(a),m=A.E(a).ok.y.b
